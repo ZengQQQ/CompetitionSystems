@@ -1,4 +1,4 @@
-package Logical_opt.domain;
+package JdbcOption.domain;
 
 public class Reply {
     //定义消息发出的时间

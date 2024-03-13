@@ -1,7 +1,7 @@
 package servlet_.operate;
 
-import Logical_opt.domain.Application_information;
-import Logical_opt.domain.Student;
+import JdbcOption.domain.Application_information;
+import JdbcOption.domain.Student;
 import druid_JDBC_utils.Druid_Utils;
 
 import javax.servlet.ServletException;

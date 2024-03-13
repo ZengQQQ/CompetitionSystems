@@ -1,4 +1,4 @@
-package Logical_opt.domain;
+package JdbcOption.domain;
 
 import java.util.List;
 

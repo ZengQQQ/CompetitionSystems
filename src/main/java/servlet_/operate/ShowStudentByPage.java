@@ -1,8 +1,8 @@
 package servlet_.operate;
 
-import Logical_opt.dao.Student_dao;
-import Logical_opt.domain.PageBean;
-import Logical_opt.domain.Student;
+import JdbcOption.dao.Student_dao;
+import JdbcOption.domain.PageBean;
+import JdbcOption.domain.Student;
 import druid_JDBC_utils.Druid_Utils;
 
 import javax.servlet.ServletException;

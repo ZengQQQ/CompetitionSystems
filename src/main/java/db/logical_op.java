@@ -1,7 +1,7 @@
 package db;
 
-import Logical_opt.domain.Student;
-import Logical_opt.domain.Team;
+import JdbcOption.domain.Student;
+import JdbcOption.domain.Team;
 import druid_JDBC_utils.Druid_Utils;
 
 import java.sql.Connection;

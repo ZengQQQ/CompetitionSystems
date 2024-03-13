@@ -9,7 +9,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2b327d7-5b68-41d7-ac29-faa1d51fceab" name="更改" comment="修改数据库配置" />
+    <list default="true" id="e2b327d7-5b68-41d7-ac29-faa1d51fceab" name="更改" comment="修改数据库配置">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/Utils/Druid_Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/Utils/Druid_Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/dao/Ad_jour_dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/dao/Basic_dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/dao/Contest_dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/dao/Group_dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/dao/Student_dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/dao/Team_dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/dao/User_jour_dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/domain/Ad_jour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/domain/Ad_jour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/domain/Application_information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/domain/Application_information.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/domain/Contest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/domain/Contest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/domain/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/domain/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/domain/PageBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/domain/PageBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/domain/Reply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/domain/Reply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/domain/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/domain/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/domain/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logical_opt/domain/User_jour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcOption/domain/User_jour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/db/logical_op.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/db/logical_op.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/CheckPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/CheckPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/DealApply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/DealApply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowInvitation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowInvitation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowMyTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowMyTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowMyTeam_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowMyTeam_Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowReply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowReply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowStudentByPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowStudentByPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowStudent_Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowStudent_Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowTeamByPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowTeamByPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowTeammate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet_/operate/ShowTeammate.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,44 +92,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Tomcat 服务器.Tomcat 9.0.86.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/JAVA/CompetitionSystem/src/main/resources/config&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3448276&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.HashPassword.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat 服务器.Tomcat 9.0.86.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/work/webfiles/CompetitionSystems/src/main/java/Logical_opt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3448276",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.HashPassword.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\webfiles\CompetitionSystems\src\main\java\Logical_opt" />
+      <recent name="D:\work\webfiles\CompetitionSystems" />
       <recent name="F:\JAVA\CompetitionSystem\src\main\resources\config" />
       <recent name="F:\JAVA\CompetitionSystem\src\main\resources" />
       <recent name="F:\JAVA\CompetitionSystem\src\main\webapp" />
-      <recent name="F:\JAVA\CompetitionSystem\src\main\java\com\game\competitionsystem\" />
-      <recent name="F:\JAVA\CompetitionSystem\src\main\java\com\game\competitionsystem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\JAVA\CompetitionSystem\src\main\resources\config" />
       <recent name="F:\JAVA\CompetitionSystem\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Logical_opt.entity" />
     </key>
   </component>
   <component name="RunManager" selected="Application.HashPassword">
@@ -135,6 +171,7 @@
       <workItem from="1710063050730" duration="8030000" />
       <workItem from="1710072167907" duration="179000" />
       <workItem from="1710221354247" duration="5632000" />
+      <workItem from="1710329771502" duration="1373000" />
     </task>
     <task id="LOCAL-00001" summary="可以运行；使用maven管理包">
       <option name="closed" value="true" />
@@ -176,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709432356504</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改数据库配置">
+      <created>1710329835692</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710329835692</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

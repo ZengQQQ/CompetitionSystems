@@ -1,7 +1,7 @@
 package servlet_.operate;
 
-import Logical_opt.dao.Team_dao;
-import Logical_opt.domain.Team;
+import JdbcOption.dao.Team_dao;
+import JdbcOption.domain.Team;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

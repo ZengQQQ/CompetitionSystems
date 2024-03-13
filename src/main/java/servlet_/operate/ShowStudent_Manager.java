@@ -1,9 +1,8 @@
 package servlet_.operate;
 
-import Logical_opt.dao.Student_dao;
-import Logical_opt.domain.PageBean;
-import Logical_opt.domain.Student;
-import druid_JDBC_utils.Druid_Utils;
+import JdbcOption.dao.Student_dao;
+import JdbcOption.domain.PageBean;
+import JdbcOption.domain.Student;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -11,10 +10,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
 import java.util.Map;
 
 @WebServlet("/showStudent_Manager")

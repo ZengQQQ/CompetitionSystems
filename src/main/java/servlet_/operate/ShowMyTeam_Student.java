@@ -1,6 +1,6 @@
 package servlet_.operate;
 
-import Logical_opt.domain.Team;
+import JdbcOption.domain.Team;
 import druid_JDBC_utils.Druid_Utils;
 
 import javax.servlet.ServletException;
@@ -8,7 +8,6 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.awt.image.RescaleOp;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
